@@ -1,5 +1,9 @@
-<h1 align="center">Hi 👋, I'm Copas</h1>
-<h3 align="center">A passionate frontend developer from Texas</h3>
+<h1 align="center">Hey👌, I'm Copas</h1>
+<h3 align="center">A passionate full-stack developer from Texas</h3>
+
+- 🤓 I’m currently learning **C#**
+
+- 💬 Ask me about **PHP**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
